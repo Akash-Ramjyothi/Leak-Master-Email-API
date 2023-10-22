@@ -18,7 +18,7 @@ Developed a Microservice Architecture based Emailing-API, to send an Alert notif
 
 ## 🧠 Working of Project:
 <p align="center">
-<img src="https://github.com/Akash-Ramjyothi/SMS-API/assets/54114888/7b57e2d9-5634-4865-89d6-565570a4c0fe" width="800">
+<img src="https://github.com/Akash-Ramjyothi/DODA-App/assets/54114888/c41bb445-2875-4106-9383-5c0c8586f01b" width="800">
 </p>
 
 ## 🏗 Built With:
