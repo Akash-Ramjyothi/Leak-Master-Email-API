@@ -11,10 +11,10 @@ Developed a Microservice Architecture based Emailing-API, to send an Alert notif
 
 
 ## 🌎 Deployed Website:
-### ```https://leak-master-email-api.onrender.com/send-email```
+```https://leak-master-email-api.onrender.com/send-email```
 
 ## 📱Leak Master App:
-### ```https://github.com/Akash-Ramjyothi/Leak-Master-App```
+```https://github.com/Akash-Ramjyothi/Leak-Master-App```
 
 ## 🧠 Working of Project:
 <p align="center">
