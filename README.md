@@ -8,7 +8,7 @@
 Developed a Microservice Architecture based Emailing-API, to send an Alert notification email to the User (recipientEmail) with the current Server time. The purpose of this API is to send an email notifying the user that there has been a Gas Leak in his premises with an exact snapshot of the time of the Gas Leak. This email can be used as a proof to claim insurance, warranty, investigation, etc. It can be triggered through tools like Postman, or any other Client-side application. Currrently used for the Leak-Master application, triggered through the Android App.
 
 ## 📽 Sample Demo:
-
+https://github.com/Akash-Ramjyothi/Leak-Master-Email-API/assets/54114888/028808d6-6b4c-468b-84d9-74b6466f45ff
 
 ## 🌎 Deployed Website:
 ```https://leak-master-email-api.onrender.com/send-email```
